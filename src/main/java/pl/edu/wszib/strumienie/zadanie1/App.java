@@ -1,8 +1,7 @@
-package zadanie1;
+package pl.edu.wszib.strumienie.zadanie1;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class App {
     static void main() {

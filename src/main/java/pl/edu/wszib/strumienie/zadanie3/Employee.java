@@ -1,4 +1,4 @@
-package zadanie3;
+package pl.edu.wszib.strumienie.zadanie3;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

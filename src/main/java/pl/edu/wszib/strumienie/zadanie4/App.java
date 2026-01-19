@@ -1,4 +1,4 @@
-package zadanie4;
+package pl.edu.wszib.strumienie.zadanie4;
 
 import java.util.Arrays;
 import java.util.Comparator;
